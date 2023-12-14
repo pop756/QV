@@ -1,0 +1,11 @@
+.BERT
+.Attention.model
+.BERT
+.data
+.keras_model
+.Large_mol_tokken
+.library_prepared
+.Practice
+.Pretraning_data
+.temp
+.ZINC_data
